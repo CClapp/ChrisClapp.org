@@ -1,2 +1,2 @@
 # ChrisClapp.org
-Webpage Repository for https://chrisclapp.org/
+Git repository of files for https://chrisclapp.org/ webpage.
